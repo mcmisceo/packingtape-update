@@ -1,0 +1,23 @@
+{
+  "name": "packingtape-update",
+  "version": "0.0.1",
+  "description": "Updater for packs made on vanilla to the packingtape spec",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcmisceo/packingtape-update.git"
+  },
+  "author": "mcmisceo Team",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/mcmisceo/packingtape-update/issues"
+  },
+  "homepage": "https://github.com/mcmisceo/packingtape-update#readme",
+  "dependencies": {
+    "parcel": "^1.10.3",
+    "typescript": "^3.1.6"
+  }
+}
