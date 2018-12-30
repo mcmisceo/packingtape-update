@@ -5,8 +5,8 @@
     "models": [
         {
             "namespace": "magilore",
-            "id": "magilore",
-            "file": "item/wands/magic_wand.json", // full path in rp would be assets/mechanization/models/item/wands/magic_wand.json
+            "id": "magic_wand",
+            "file": "item/wands/magic_wand.json", // full path in rp would be assets/magilore/models/item/wands/magic_wand.json
             "item": "mpm:use_detect"
         }
     ]
